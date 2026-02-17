@@ -5,7 +5,7 @@
 ---
 
 ## 👩‍💻 About Me
-I'm a passionate Software Engineering student at **Adama Science and Technology University** actively learning and building my skills in full-stack development. I enjoy creating innovative solutions and continuously expanding my skill set.
+I'm a software engineering student with a strong passion for web development, experienced in building projects with React, JavaScript, and other web technologies. Recently, I've started my journey into the world of Machine Learning and Data Science, where I'm eager to explore the endless possibilities of AI.
 
 ---
 ## 🛠️ Tech Stack
