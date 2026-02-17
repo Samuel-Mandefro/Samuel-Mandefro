@@ -1,4 +1,6 @@
-<h1 align="center">St</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=08e9fa&center=true&width=700&lines=Welcome+TO+My+Github+Account;I+am+software+engineering+student;full-stack+developer;AI+Engineer" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -6,7 +8,6 @@
 I'm a passionate Software Engineering student at **Adama Science and Technology University** actively learning and building my skills in full-stack development. I enjoy creating innovative solutions and continuously expanding my skill set.
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### Programming Languages
