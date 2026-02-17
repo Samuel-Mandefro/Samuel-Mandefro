@@ -33,7 +33,7 @@ I'm a passionate Software Engineering student at **Adama Science and Technology 
 
 ---
 
-## 📫 Connect with Me
+## 📫 You Can Connect me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/samuel-mandefro-bbb9473ab)
 
