@@ -44,5 +44,8 @@ I'm a software engineering student with a strong passion for web development, ex
 ## 📫 You Can Connect me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/samuel-mandefro-bbb9473ab)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Samuelmandefro213@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Some9169)
 
+---
 <!-- Optionally, add GitHub stats here or more sections as you like! -->
