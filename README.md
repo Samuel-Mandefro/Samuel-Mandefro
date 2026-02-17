@@ -5,7 +5,15 @@
 ---
 
 ## 👩‍💻 About Me
-I'm a software engineering student with a strong passion for web development, experienced in building projects with React, JavaScript, and other web technologies. Recently, I've started my journey into the world of Machine Learning and Data Science, where I'm eager to explore the endless possibilities of AI.
+
+---
+
+🚀 &nbsp;**Machine Learning & AI Enthusiast** | 💻 **Web-Developer**
+
+I'm a software engineering student with a strong passion for web development, experienced in building projects with **React, JavaScript**, and other web technologies. Recently, I’ve started my journey into the world of **Machine Learning and Data Science**, where I'm eager to explore the endless possibilities of AI.
+
+- 📚 &nbsp;**Student:** at *Adama Science And Technology University*
+- 🎯 &nbsp;**Goals:** <b>Contribute more to Open Source</b>
 
 ---
 ## 🛠️ Tech Stack
