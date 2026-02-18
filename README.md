@@ -16,6 +16,12 @@ I'm a software engineering student with a strong passion for web development, ex
 - 🎯 &nbsp;**Goals:** <b>Contribute more to Open Source</b>
 
 ---
+
+## Resume
+
+[View Resume](https://flowcv.com/resume/rtdt604jjkw6)
+
+---
 ## 🛠️ Tech Stack
 
 ### Programming Languages
