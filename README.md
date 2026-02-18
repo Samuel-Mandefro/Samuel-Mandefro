@@ -19,7 +19,7 @@ I'm a software engineering student with a strong passion for web development, ex
 
 ## Resume
 
-[View Resume](https://flowcv.com/resume/rtdt604jjkw6)
+[View Resume](https://drive.google.com/file/d/17ZU4Z-4ODiU6mEd9hxEliIFLPL-l6Iu9/view?usp=drive_link)
 
 ---
 ## 🛠️ Tech Stack
