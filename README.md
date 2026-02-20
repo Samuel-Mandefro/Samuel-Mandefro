@@ -54,4 +54,15 @@ I'm a software engineering student with a strong passion for web development, ex
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Some9169)
 
 ---
+
+## GitHub Analytics
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samuel-Mandefro&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Mandefro&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+## Activity Overview
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Samuel-Mandefro&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+---
 <!-- Optionally, add GitHub stats here or more sections as you like! -->
