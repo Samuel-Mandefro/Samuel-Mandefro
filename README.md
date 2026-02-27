@@ -55,28 +55,6 @@ I'm a software engineering student with a strong passion for web development, ex
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/Samuel-Mandefro">
-    <img src="https://github-readme-stats.vercel.app/api?username=Samuel-Mandefro&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" alt="Samuel's GitHub stats" height="180"/>
-  </a>
-  <a href="https://github.com/Samuel-Mandefro">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Mandefro&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" alt="Samuel's Top Languages" height="180"/>
-  </a>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <a href="https://github.com/Samuel-Mandefro">
-    <img src="https://streak-stats.demolab.com?user=Samuel-Mandefro&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Streak"/>
-  </a>
-</p>
-
----
 
 
 <!-- Optionally, add GitHub stats here or more sections as you like! -->
